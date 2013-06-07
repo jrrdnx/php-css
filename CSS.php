@@ -10,7 +10,8 @@
 	 *	@todo Finish descriptions for some parameters
 	 *	@todo Support for border-image
 	 *	@todo Support for repeating-linear-gradient and repeating-radial-gradient
-	 *	@todo Suppoer for transition
+	 *	@todo Support for transition
+	 *	@todo Expand browser support with support for behavior files (such as CSS3PIE)
 	 *
 	 *	6/6/2013
 	 *
